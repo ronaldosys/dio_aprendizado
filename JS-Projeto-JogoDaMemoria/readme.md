@@ -5,4 +5,4 @@
 - `Modificações`: Modificações no layout, imagens, estruturado em pastas e adicionado classes chamando audios.
 - `Imagens e Audios`: Foram baixados da Internet.
 
-| [<img src="" width=500><br>]
+| [<img src="https://github.com/ronaldosys/dio_aprendizado/blob/main/JS-Projeto-JogoDaMemoria/assets/img/jogo_exemplo.png" width=500><br>]
